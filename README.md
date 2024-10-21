@@ -9,12 +9,12 @@ This project explores the application of large vision models for the classificat
 
 ### Repository Structure:
 - Jupyter Notebooks:
-  - beit-hirise.ipynb: Implementation of BEiT for terrain classification.
-  - deit-hirise.ipynb: Implementation of DeiT (Data-efficient Image Transformer).
-  - levit-hirise.ipynb: LeViT model for classification.
-  - swinv2-hirise.ipynb: Application of Swin Transformer.
-  - vit-hirise.ipynb: Vision Transformer for HiRise images.
-  - Eval_HiRise.ipynb: Evaluation notebook for comparing model performance.
+  - [beit-hirise.ipynb](beit-hirise.ipynb): Implementation of BEiT for terrain classification.
+  - [deit-hirise.ipynb](deit-hirise.ipynb): Implementation of DeiT (Data-efficient Image Transformer).
+  - [levit-hirise.ipynb](levit-hirise.ipynb): LeViT model for classification.
+  - [swinv2-hirise.ipynb](swinv2-hirise.ipynb): Application of Swin Transformer.
+  - [vit-hirise.ipynb](vit-hirise.ipynb): Vision Transformer for HiRise images.
+  - [Eval_HiRise.ipynb](Eval_HiRise.ipynb): Evaluation notebook for comparing model performance.
 - Metrics:
   - Contains evaluation metrics in JSON and Excel formats for each model.
   
