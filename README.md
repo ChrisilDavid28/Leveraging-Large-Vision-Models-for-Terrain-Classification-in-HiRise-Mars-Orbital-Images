@@ -29,4 +29,4 @@ pip install -r requirements.txt
 ```
 
 ### License
-This project is licensed under the MIT License - see the Leveraging-Large-Vision-Models-for-Terrain-Classification-in-HiRise-Mars-Orbital-Images/LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
