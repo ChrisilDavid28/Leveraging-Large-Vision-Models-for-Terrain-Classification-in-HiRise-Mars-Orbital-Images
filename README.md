@@ -22,6 +22,8 @@ This project explores the application of large vision models for the classificat
   
 ### Installation
 1. Clone this repository:
-''' git clone <repository-url>
-2. Install the required dependencies (update this based on specific libraries):
-''' pip install -r requirements.txt
+''' bash
+git clone <repository-url>'''
+3. Install the required dependencies (update this based on specific libraries):
+''' bash
+pip install -r requirements.txt'''
