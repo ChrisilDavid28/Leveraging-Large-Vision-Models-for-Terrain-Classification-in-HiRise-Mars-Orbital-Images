@@ -21,7 +21,7 @@ This project explores the application of large vision models for the classificat
 ### Installation
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/ChrisilDavid28/Leveraging-Large-Vision-Models-for-Terrain-Classification-in-HiRise-Mars-Orbital-Images.git
 ```
 2. Install the required dependencies (update this based on specific libraries):
 ```bash
