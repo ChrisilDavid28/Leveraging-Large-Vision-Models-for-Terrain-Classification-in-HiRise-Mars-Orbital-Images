@@ -17,16 +17,16 @@ This project explores the application of large vision models for the classificat
 -- Eval_HiRise.ipynb: Evaluation notebook for comparing model performance.
 - Metrics:
 -- Contains evaluation metrics in JSON and Excel formats for each model.
-- LICENSE:
--- MIT License for project usage.
   
 ### Installation
 1. Clone this repository:
 ```bash
 git clone <repository-url>
 ```
-git clone <repository-url>'''
-3. Install the required dependencies (update this based on specific libraries):
+2. Install the required dependencies (update this based on specific libraries):
 ```bash
 pip install -r requirements.txt
 ```
+
+### License
+This project is licensed under the MIT License - see the [subdirectory/]<filename> file for details.
