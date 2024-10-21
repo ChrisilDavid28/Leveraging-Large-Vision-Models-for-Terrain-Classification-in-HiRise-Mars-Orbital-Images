@@ -8,13 +8,10 @@ Comparison of performance metrics for each model.
 Jupyter notebooks that demonstrate the training and evaluation of models on HiRise datasets.
 Repository Structure:
 Jupyter Notebooks:
-
-beit-hirise.ipynb: Implementation of BEiT for terrain classification.
-deit-hirise.ipynb: Implementation of DeiT (Data-efficient Image Transformer).
-levit-hirise.ipynb: LeViT model for classification.
-swinv2-hirise.ipynb: Application of Swin Transformer.
-vit-hirise.ipynb: Vision Transformer for HiRise images.
-Eval_HiRise.ipynb: Evaluation notebook for comparing model performance.
-Metrics:
-
-Contains evaluation metrics in JSON and Excel formats for each model.
+  beit-hirise.ipynb: Implementation of BEiT for terrain classification.
+  deit-hirise.ipynb: Implementation of DeiT (Data-efficient Image Transformer).
+  levit-hirise.ipynb: LeViT model for classification.
+  swinv2-hirise.ipynb: Application of Swin Transformer.
+  vit-hirise.ipynb: Vision Transformer for HiRise images.
+  Eval_HiRise.ipynb: Evaluation notebook for comparing model performance.
+Metrics: Contains evaluation metrics in JSON and Excel formats for each model.
